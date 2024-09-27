@@ -9,6 +9,6 @@
 $git init
 Se inicializó un repositorio Git vacío en /Users/skills/Projects/recipe-repository/.git/
 ```
-`` javascript
+``` javascript
 var myVar = "¡Hola, mundo!";
 ```
